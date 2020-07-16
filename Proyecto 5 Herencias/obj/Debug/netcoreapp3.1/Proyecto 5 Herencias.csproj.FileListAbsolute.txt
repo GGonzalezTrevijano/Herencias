@@ -1,0 +1,13 @@
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\bin\Debug\netcoreapp3.1\Proyecto 5 Herencias.exe
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\bin\Debug\netcoreapp3.1\Proyecto 5 Herencias.deps.json
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\bin\Debug\netcoreapp3.1\Proyecto 5 Herencias.runtimeconfig.json
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\bin\Debug\netcoreapp3.1\Proyecto 5 Herencias.runtimeconfig.dev.json
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\bin\Debug\netcoreapp3.1\Proyecto 5 Herencias.dll
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\bin\Debug\netcoreapp3.1\Proyecto 5 Herencias.pdb
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\obj\Debug\netcoreapp3.1\Proyecto 5 Herencias.csprojAssemblyReference.cache
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\obj\Debug\netcoreapp3.1\Proyecto 5 Herencias.AssemblyInfoInputs.cache
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\obj\Debug\netcoreapp3.1\Proyecto 5 Herencias.AssemblyInfo.cs
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\obj\Debug\netcoreapp3.1\Proyecto 5 Herencias.csproj.CoreCompileInputs.cache
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\obj\Debug\netcoreapp3.1\Proyecto 5 Herencias.dll
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\obj\Debug\netcoreapp3.1\Proyecto 5 Herencias.pdb
+F:\ProyectProgramacion\Proyecto5 Herencias\Proyecto 5 Herencias\obj\Debug\netcoreapp3.1\Proyecto 5 Herencias.genruntimeconfig.cache
